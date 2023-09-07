@@ -29,6 +29,7 @@ body{
     background-size: cover ;
 */
 background:var(--bg-url) no-repeat top center/cover;
+height: 100vh;
  }
  body * {
     font-family: 'Inter', sans-serif;
@@ -38,7 +39,7 @@ color: var(--text-color);
 /* width: vai dizer qual será a largura da caixa aonde ficará a informação */
  #jsb{
     width: 100%;
-    max width: 580px;
+    max-width: 588px;
     margin: 0px auto 56px;
     padding: 0 24px;
  }
@@ -148,4 +149,13 @@ footer{
     padding: 24px;
     text-align: center;
     font-size: 14px;
+}
+/* media queries*/
+@media (min-width:700px){
+    :root{
+        --bg-url:url(./assets/bg-desktop.jpg);
+    }
+    .light{
+        --bg-url:url(./assets/bg-desktop-light.jpg);
+    }
 }
