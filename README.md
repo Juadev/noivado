@@ -1,7 +1,7 @@
 <h1 align="center"> DevLinks </h1>
 
 <p align="center">
-Evento exclusivo e gratuito, Feito para ajudar casais a orientar seus convidados a seu Chá de panela.
+Evento exclusivo e gratuito, Feito para orientar pessoas a ter acesso a Links escolhidos pelo desenvolvedor.
 </p>
 
 <p align="center">
