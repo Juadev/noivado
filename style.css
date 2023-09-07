@@ -37,7 +37,8 @@ color: var(--text-color);
  }
 /* width: vai dizer qual será a largura da caixa aonde ficará a informação */
  #jsb{
-    width: 360px;
+    width: 100%;
+    max width: 580px;
     margin: 0px auto 56px;
     padding: 0 24px;
  }
